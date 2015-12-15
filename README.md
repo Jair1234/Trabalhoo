@@ -2,13 +2,13 @@
 
 # Cadastro de Usuários VERSÃO 1.0
 
-Desenvolvedor Jair Moratore Junior Ra: 520926 BSI 4 Ano Disciplina Implementação de Sistemas de Informação II
+Desenvolvedor Jair Moratore Junior Ra: 520926 BSI 4 Ano Disciplina: Implementação de Sistemas de Informação II
 
 O Cadastro de Usuários foi desevolvido para cadastrar usuários como: alunos e professores.
 
--Cadastro de dados básicos do usuário aluno como: Nome idade celular e etc.
--Além do Cadastro de alunos também pode ser cadastrados professores e suas respectivas disciplinas que cada professor lesiona.
--Pode ser usada em aplicações futuras.
+- Cadastro de dados básicos do usuário aluno como: Nome idade celular e etc.
+- Além do Cadastro de alunos também pode ser cadastrados professores e suas respectivas disciplinas que cada professor lesiona.
+- Pode ser usada em aplicações futuras.
 
 ## Nota de Liberação do Cadastro de Usuários VERSÃO 1.0
 
@@ -19,9 +19,9 @@ Pode ser também comsumido pelo Postman.
 
 ### 2. PROBLEMAS
  
--O Aplicativo não foi 100% implementado.
--Apenas possue crud Create Read Update Delete sobre os usuários.
--Aplicativo pequeno melhor demostrado por meio da WebApi Parser.
+- O Aplicativo não foi 100% implementado.
+- Apenas possue crud Create Read Update Delete sobre os usuários.
+- Aplicativo pequeno melhor demostrado por meio da WebApi Parser.
 
 # 3. DATAS IMPORTANTES
 
@@ -35,9 +35,9 @@ SEGUE ABAIXO
 
 Sistema Operacional |  Versão
 ------------- | -------------
-Android                4.4 KITKAT ou Superior
+Android       |        4.4 KITKAT ou Superior
 
 ##### 5. TECNOLOGIAS
  
- -ANDROID.
- -PARSER.
+ - ANDROID.
+ - PARSER.
