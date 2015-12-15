@@ -37,7 +37,7 @@ Sistema Operacional |  Versão
 ------------- | -------------
 Android       |        4.4 KITKAT ou Superior
 
-##### 5. TECNOLOGIAS
+#### 5. TECNOLOGIAS
  
  - ANDROID.
  - PARSER.
